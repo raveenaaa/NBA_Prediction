@@ -6,6 +6,7 @@ The season matches(season.csv) are used to train different models and the playof
 
 <br/>
 Different methods are used for the prediction - Logistic Regression, Naive Bayes, Random Forest, Decision Tree and AdaBoost classifier. 
+Matrix Factorization and Maximum Entropy Principle based models are also implemented.
 <br/>
 The data is pre-processed and the different models are trained and tested. 
 <br/>
